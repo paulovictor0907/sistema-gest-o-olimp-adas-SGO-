@@ -1,3 +1,3 @@
 # sistema-gestão-olimpiadas-SGO
 
-*Historias de Usuario
+## Historias de Usuario
