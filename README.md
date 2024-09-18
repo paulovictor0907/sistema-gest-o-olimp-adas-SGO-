@@ -1,1 +1,1 @@
-# sistema-gest-o-olimp-adas-SGO-
+# sistema-gestão-olimpiadas-SGO
