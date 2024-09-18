@@ -1,5 +1,6 @@
 # sistema-gestão-olimpiadas-SGO
 
-** Aluno: Paulo Victor Fernandes de Araujo Silva
+## Aluno
+* Paulo Victor Fernandes de Araujo Silva
 
 ## Historias de Usuario
