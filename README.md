@@ -2,7 +2,7 @@
 
 ## Aluno
 * Paulo Victor Fernandes de Araujo Silva
-* Luiz Brescia
+* Luis Brescia
 
 ## Historias de Usuario
 
